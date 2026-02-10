@@ -1,9 +1,14 @@
 ---
 title: "프로젝트 (Projects)"
 permalink: /projects/
-layout: home
+layout: single
 author_profile: true
 ---
 
 ## 💻 Projects Archive
-지금까지 진행한 데이터 분석 프로젝트 목록입니다.
+
+<div class="entries-grid">
+  {% for post in site.posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
