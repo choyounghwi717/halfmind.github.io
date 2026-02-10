@@ -16,7 +16,7 @@ permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: "Asia/Seoul" # ★ 중요: 한국 시간 설정
-
+future: true
 # 4. 플러그인 (건드리지 마세요)
 # _pages 폴더를 무시하지 말고 포함시키라는 명령어
 include:
