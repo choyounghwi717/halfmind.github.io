@@ -9,7 +9,10 @@ header:
 categories:
   - Data Analysis
 tags:
-  - [Python, Machine Learning, PCA, Project]
+  - Python
+  - Machine Learning
+  - PCA
+  - Project
 
 toc: true
 toc_sticky: true
