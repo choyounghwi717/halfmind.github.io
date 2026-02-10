@@ -33,7 +33,7 @@ plugins:
 # 5. 작성자 프로필 (왼쪽 사이드바에 뜸)
 author:
   name   : "조영휘"
-  avatar : "/assets/images/profile.jpg"  <-- ★ 여기! (파일 확장자가 png라면 .png로)
+  avatar : "/assets/images/profile.jpg" 
   bio    : "데이터로 세상을 읽는 분석가입니다."
   location: "South Korea"
   links:
