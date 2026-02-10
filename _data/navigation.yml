@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "홈"
+    url: /
+
+  - title: "연구활동"
+    url: /research/
+
+  - title: "수상내역"
+    url: /awards/
+
+  - title: "프로젝트"
+    url: /projects/
+
+  - title: "교내활동"
+    url: /activities/
+  
+  # 한영 전환 버튼 (누르면 영문 소개 페이지로 이동하게 설정)
+  - title: "🇺🇸 EN"
+    url: /en/
