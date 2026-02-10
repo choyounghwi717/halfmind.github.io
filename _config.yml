@@ -31,10 +31,11 @@ plugins:
   - jekyll-include-cache
 
 # 5. 작성자 프로필 (왼쪽 사이드바에 뜸)
+
 author:
-  name    : "조영휘"
-  avatar  : "/assets/images/profile.jpg" # 나중에 본인 사진 파일명을 profile.jpg로 해서 올리세요
-  bio     : "데이터로 세상을 읽는 분석가입니다.<br>Sentinel, FBTI 프로젝트 진행 중."
+  name   : "조영휘"
+  avatar : "/assets/images/profile.jpg"  <-- ★ 여기! (파일 확장자가 png라면 .png로)
+  bio    : "데이터로 세상을 읽는 분석가입니다."
   location: "South Korea"
   links:
     - label: "GitHub"
